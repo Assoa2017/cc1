@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Mouftah Abdelaziz
+ * @author Assoa Mebina Donald
  */
 public class ProjetGe extends javax.swing.JFrame {
 
